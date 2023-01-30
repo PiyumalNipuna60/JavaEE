@@ -6,6 +6,9 @@
         <element id="directory" name="classes">
           <element id="module-output" name="01-Hello-javaEE" />
         </element>
+        <element id="directory" name="lib">
+          <element id="library" level="project" name="Java EE 6-Java EE 6" />
+        </element>
       </element>
       <element id="javaee-facet-resources" facet="01-Hello-javaEE/web/Web" />
     </root>
